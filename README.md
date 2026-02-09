@@ -10,6 +10,6 @@ pip install tensorflow numpy opencv-python matplotlib
 Run the training script to download the MNIST dataset and build the model. This will generate the mnist_model.keras file.
 
 
-Accuracy: ~97-98%
+Accuracy: 97-98%
 
-Training Time: < 1 minute on most CPUs.
+
